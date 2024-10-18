@@ -1,6 +1,6 @@
 # Python File Browser
 
-`filebrowse` is a simple library to browse and select files without creating GUIs using either PyQt5 or Tkinter. `filebrowse` uses PyQT but defaults to Tkinter if not installed.
+`filebrowse` is a simple library to browse and select files without creating GUIs. Python File Browser uses either PyQt5 or Tkinter for creating Browser dialog. `filebrowse` uses PyQT but defaults to Tkinter if not installed.
 
 ## Features
 - Provides a function `browse()` that opens a file dialog for selecting a file.
